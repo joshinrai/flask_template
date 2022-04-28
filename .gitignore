@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+app/__pycache__
+app/__pycache__/*pyc
+venv
+.DS_Store
+*/.DS_Store
+.idea
+app/static/js/*.map
+*.csv
+.vscode
+logs
+%python安装路径%
